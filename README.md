@@ -1,9 +1,9 @@
 # Ujian Akhir Semester
 
-<br> Mata Kuliah  :
-<br> Nama         :
-<br> NIM          :
-<br> Jurusan      :
+<br> Mata Kuliah  : Dasar Pemograman
+<br> Nama         : Anissya Auliani Supriadi Putri
+<br> NIM          : 1227050023
+<br> Jurusan      : Teknik Informatika UIN Sunan Gunung Jati Bandung
 
 
 
